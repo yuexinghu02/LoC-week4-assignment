@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.7, pytest-9.2.0, pluggy-1.7.0
+rootdir: C:\Users\johnh\workspace\language-of-computation\week4-assignment
+configfile: pytest.ini
+testpaths: test_ingest.py
+collected 34 items
+
+test_ingest.py ..................................                        [100%]
+
+============================= 34 passed in 6.47s ==============================
